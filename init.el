@@ -72,7 +72,8 @@
 (require 'init-packages)
 (require 'init-fonts)
 (require 'init-meow)
-(require 'init-boon)
+(require 'init-ivy)
+;; (require 'init-boon)
 
 ;; ========================================================================================================================
 ;; begin test
